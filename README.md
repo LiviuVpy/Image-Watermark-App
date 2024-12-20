@@ -1,7 +1,9 @@
 Image Watermarking App
+
 Based on Python allows you to add a custom watermark to an image file and save it to the chosen directory. It uses Tkinter, Pillow, and Matplotlib libraries.
 
 GUI Layout
+
 The app allow you to adjust the watermark's position, font size, font bolor. The layout is shown in the following images:
 
 ![Screenshot 2024-12-05 121556](https://github.com/user-attachments/assets/4115ed9c-4d8b-4022-a3fc-96f4f964af06)
